@@ -1,4 +1,4 @@
-# Hello, I'm Nguyen Trung Tuong]
+# Hello, I'm Nguyen Trung Tuong
 
 **A passionate developer building across the stack with a focus on clean, functional code.**
 

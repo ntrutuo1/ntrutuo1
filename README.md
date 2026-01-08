@@ -30,16 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntrutuo1&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntrutuo1&layout=compact&theme=default&hide_border=true&exclude_repo=ntrutuo1.github.io)
-
-</div>
 
 ## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuongnt1907xx@gmail.com)
